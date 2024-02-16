@@ -6,4 +6,4 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here is the final result:
 
-https://github.com/TravisAdamson/atlas-headphones/blob/e504827d4054359ba8ab0467ad494ce37b968043/ReadmeScreen.png
+![Final Picture](https://github.com/TravisAdamson/atlas-headphones/blob/e504827d4054359ba8ab0467ad494ce37b968043/ReadmeScreen.png)

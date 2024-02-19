@@ -112,7 +112,7 @@
     margin: auto 1.25rem;
   }
   
-  .hero-content {
+  .hero-data {
     width: 75%;
     text-align: center;
     font-family: var(--font-family-body);
@@ -133,7 +133,7 @@
     margin: 0.25rem 0;
   }
   
-  .hero-content p {
+  .hero-data p {
     margin: 2rem 0;
     line-height: 1.5;
     font-size: var(--font-size-medium);
@@ -228,7 +228,7 @@
       margin: auto;
     }
   
-    .hero-content {
+    .hero-data {
       margin: 14rem auto 0 auto;
       width: 100%;
     }
